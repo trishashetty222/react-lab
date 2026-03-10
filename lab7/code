@@ -27,3 +27,4 @@ export default function App(){
     </div>
   );
 }
+take image save in file inside src assets as sampleimage.jpg in all files in fileexpolrerr tyen run
